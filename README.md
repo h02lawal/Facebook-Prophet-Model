@@ -1,4 +1,4 @@
-I used the Facebook Prophet model to forecast an airline time-series data, this forecast tried to predict the number of passengers in an airline which can be used by a company to view expected sales.
+I used the Facebook Prophet model to forecast an airline time-series data, this forecast tried to predict the number of passengers in an airline which can be used to make plans in various companies.
 
 I used the model on the statsmodel passenger dataset to make predictions, this model took in extra regressors to give the model insights
 into how other variables can affect the amount of passengers in an airline. The regressors were population and airline capacity, these were added because with
